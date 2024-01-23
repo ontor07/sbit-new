@@ -126,10 +126,10 @@ body{
   }
   
   /*=============== REUSABLE CSS CLASSES ===============*/
-  .container {
+  /* .container {
     max-width: 1120px;
     margin-inline: 1.5rem;
-  }
+  } */
   
   /*=============== HEADER ===============*/
   .header {
@@ -319,9 +319,9 @@ body{
   /*=============== BREAKPOINTS ===============*/
   /* For small devices */
   @media screen and (max-width: 340px) {
-    .container {
+    /* .container {
       margin-inline: 1rem;
-    }
+    } */
   
     .nav__link {
       padding-inline: 1rem;
