@@ -299,10 +299,10 @@ div#navbarCollapse {
   color: #000;
   transition: 0.4s;
   padding: 15px 50px;
-  background: #fff;
+  background: #c1c1c1;
   border: 1px solid #f1f1f1;
   border-radius: 0px;
-  width: 280px;
+  width: 281px;
 }
 li.nav-item {
   margin-bottom: 5px;
